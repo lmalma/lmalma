@@ -2,13 +2,14 @@
 
 ## 📊 GitHub Activity Dashboard
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmalma&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lmalma&theme=dark&hide_border=&exclude_days=Sat)](https://git.io/streak-stats)
 
 ### 🔥 Contribution Insights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmalma&layout=compact&theme=vision-friendly-dark)
 
 ### 📈 Coding Activity
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=dracula)
+![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmalma&theme=dracula)
 
 ### 🍩 Technology Breakdown
 ```mermaid
