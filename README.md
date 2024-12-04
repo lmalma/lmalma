@@ -2,7 +2,6 @@
 
 ## 📊 GitHub Activity Dashboard
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lmalma&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=lmalma&theme=dark&hide_border=&exclude_days=Sat)](https://git.io/streak-stats)
 
 ### 🔥 Contribution Insights
