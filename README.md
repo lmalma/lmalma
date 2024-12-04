@@ -1,28 +1,5 @@
 # 🚀 Full-Stack Tech Wizard | IoT & Reverse Engineering Enthusiast
 
-## 📊 GitHub Activity Dashboard
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lmalma&theme=dark&hide_border=&exclude_days=Sat)](https://git.io/streak-stats)
-
-### 🔥 Contribution Insights
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmalma&layout=compact&theme=vision-friendly-dark)
-
-### 📈 Coding Activity
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmalma&theme=dracula)
-
-### 🍩 Technology Breakdown
-```mermaid
-pie title Technology Expertise
-    "Vue.js" : 35
-    "Node.js" : 25
-    "Arduino" : 15
-    "Reverse Engineering" : 15
-    "Embedded Systems" : 10
-```
-
-
-# 🚀 Full-Stack Tech Wizard | IoT & Reverse Engineering Enthusiast
-
 ## 👨‍💻 Tech Stack
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -50,5 +27,24 @@ pie title Technology Expertise
 ## 💡 Current Focus
 Bridging software innovation with hardware possibilities, pushing technological boundaries through creative engineering and deep system understanding.
 
+## 📊 GitHub Activity Dashboard
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lmalma&theme=dark&hide_border=&exclude_days=Sat)](https://git.io/streak-stats)
+
+### 🔥 Contribution Insights
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmalma&layout=compact&theme=vision-friendly-dark)
+
+### 📈 Coding Activity
+![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmalma&theme=dracula)
+
+### 🍩 Technology Breakdown
+```mermaid
+pie title Technology Expertise
+    "Vue.js" : 35
+    "Node.js" : 25
+    "Arduino" : 15
+    "Reverse Engineering" : 15
+    "Embedded Systems" : 10
+```
 ---
 **"Transforming complex technologies into elegant solutions"**
